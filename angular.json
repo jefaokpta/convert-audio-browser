@@ -32,7 +32,10 @@
             "styles": [
               "src/styles.scss"
             ],
-            "scripts": []
+            "scripts": [
+              "./src/assets/ffmpeg/package/dist/umd/ffmpeg.js",
+              "./src/assets/util/package/dist/umd/index.js"
+            ]
           },
           "configurations": {
             "production": {
