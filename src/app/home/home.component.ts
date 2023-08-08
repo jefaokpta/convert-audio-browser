@@ -1,6 +1,6 @@
 import {Component} from '@angular/core';
 import {FFmpeg} from "../../assets/ffmpeg/package";
-import {fetchFile, toBlobURL} from "../../assets/util/package";
+import {fetchFile} from "../../assets/util/package";
 
 
 @Component({
